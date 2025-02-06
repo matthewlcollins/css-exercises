@@ -1,0 +1,19 @@
+.standard {
+    color: #c56d6d;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+#blue {
+    color: #456ab9;
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#green {
+    background-color: rgb(56, 187, 115);
+    font-size: 24px;
+    font-weight: 700;
+}
