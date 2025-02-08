@@ -74,6 +74,7 @@ button.cancel {
   display: flex;
   gap: 16px;
   padding: 16px;
+  flex: 1;
 }
 
 .icon {
